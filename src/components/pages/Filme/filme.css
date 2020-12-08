@@ -1,0 +1,12 @@
+.filme__content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-width: 90rem;
+    height: 80vh;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+.filme__content h1, h3{
+    font-size: 2rem;
+}
