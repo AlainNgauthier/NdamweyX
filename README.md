@@ -1,3 +1,9 @@
+# Mini projeto NdamweyX
+
+Um modelo de filmaria realizado com o objetivo de exercitar o consumo de API por um aaplicação feita em React. 
+
+<br/><br/><br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
